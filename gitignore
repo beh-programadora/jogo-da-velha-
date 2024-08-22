@@ -1,0 +1,38 @@
+
+### .gitignore
+```plaintext
+# Ignorar arquivos e pastas específicas
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de ambiente virtual
+env/
+venv/
+
+# Ignorar arquivos de configuração específicos de IDEs
+.idea/
+.vscode/
+Enunciado do Projeto
+Título: Jogo da Velha em Python
+
+Objetivo:
+Desenvolver um jogo da velha (Tic-Tac-Toe) em Python, onde dois jogadores alternam turnos para marcar X ou O em um tabuleiro de 3x3. O jogo deve determinar automaticamente quando um jogador vence ou quando ocorre um empate.
+
+Requisitos:
+
+O jogo deve ser implementado em Python.
+Dois jogadores devem poder alternar turnos.
+O tabuleiro deve ser exibido após cada jogada.
+O jogo deve verificar automaticamente se há um vencedor ou se ocorreu um empate.
+Entregáveis:
+
+Código-fonte do jogo da velha (jogo_da_velha.py).
+Arquivo README.md explicando como executar o jogo e exemplos de uso.
+Arquivo .gitignore para ignorar arquivos desnecessários no repositório.
+Critérios de Avaliação:
+
+Funcionamento correto do jogo.
+Clareza e organização do código.
+Qualidade da documentação no README.md.
